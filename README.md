@@ -6,3 +6,9 @@ I am a member of the [Human Language Technology Research Institute](https://www.
 You can check out my [personal website](https://personal.utdallas.edu/~maxwell.weinzierl/) to learn more about me, and you can also follow me on [Twitter](https://twitter.com/Supermaxman1).
 
 [![Supermaxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=supermaxman)](https://github.com/anuraghazra/github-readme-stats)
+
+### Featured Projects ✨
+ - ✨ [PyTorch Gleam](https://personal.utdallas.edu/~maxwell.weinzierl/projects#gleam)
+ - 🔨 [Ace Attorney Engine](https://personal.utdallas.edu/~maxwell.weinzierl/projects#ace-attorney-engine)
+ - 🌌 [SpaceGAN](https://personal.utdallas.edu/~maxwell.weinzierl/projects#space-gan)
+ - 😭 [Deep RL for Isaac](https://personal.utdallas.edu/~maxwell.weinzierl/projects#isaac-rl)
