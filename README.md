@@ -5,8 +5,6 @@ I am a member of the [Human Language Technology Research Institute](https://www.
 
 You can check out my [personal website](https://personal.utdallas.edu/~maxwell.weinzierl/) to learn more about me, and you can also follow me on [Twitter](https://twitter.com/Supermaxman1).
 
-[![Supermaxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=supermaxman)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Featured Projects ✨
  - 🚀 [Hubble Diffusion](https://personal.utdallas.edu/~maxwell.weinzierl/projects#hubble-diffusion)
  - ✨ [PyTorch Gleam](https://personal.utdallas.edu/~maxwell.weinzierl/projects#gleam)
